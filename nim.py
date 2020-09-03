@@ -8,7 +8,7 @@
 # - However, a player can take more if they choose (up to half the pile).
 # - Whoever takes the last marble, loses.
 
-
+# Adding this for comment commit #2
 marbles = 0
 pick = 0
 

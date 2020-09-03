@@ -2,7 +2,7 @@
 
 # This program plays the game Hangman.
 # Input a word, then guess the letters!
-
+# Adding this for comment commit #2
 import random
 
 secretWord= input("Enter a word: ").lower()
